@@ -13,13 +13,12 @@
 Welcome to YPAC U of A!
 ======================================================
 
-
-
 Contents:
 
 .. toctree::
    :maxdepth: 15
 
+   Overview.rst
    Membership.rst
    Events.rst
 
