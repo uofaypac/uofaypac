@@ -48,8 +48,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Tensile Strain Capacity'
-copyright = u'2014, Celal Cakiroglu'
+project = u'U of A YPAC'
+copyright = u'2015, U of A YPAC'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -182,7 +182,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'EpsilonCriticaldoc'
+htmlhelp_basename = 'U of A YPAC'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -203,7 +203,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'EpsilonCritical.tex', u'Epsilon Critical Documentation',
-   u'Celal Cakiroglu', 'manual'),
+   u'U of A YPAC', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -233,7 +233,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'epsiloncritical', u'Epsilon Critical Documentation',
-     [u'Celal Cakiroglu'], 1)
+     [u'U of A YPAC'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -247,7 +247,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'EpsilonCritical', u'Epsilon Critical Documentation',
-   u'Celal Cakiroglu', 'EpsilonCritical', 'One line description of project.',
+   u'U of A YPAC', 'EpsilonCritical', 'One line description of project.',
    'Miscellaneous'),
 ]
 
