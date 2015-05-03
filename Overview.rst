@@ -1,9 +1,49 @@
+.. raw:: html
+
+		 <link href="_static/js-image-slider.css" rel="stylesheet" type="text/css" />
+		<script src="_static/1/js-image-slider.js" type="text/javascript"></script>
+		<link href="_static/generic.css" rel="stylesheet" type="text/css" />
+	    <div class="div1"><h2>Image Slider - Style #1</h2>
+	        <p>
+	    </div>
+	    <div id="sliderFrame">
+	        <div id="slider">
+			
+		<!-- 	Append this section to change the images -->
+	            <a href="http://www.tdwilliamson.com/" target="_blank">  <!--This image is having a link on it.Use <a href="www.link.com" /a> -->
+	                <img src="_images/tapping950.jpg" alt="" />
+	            </a>
+				
+	            <img src="_images/tapping950.jpg" alt="" />
+	            <img src="_images/Edmonton.jpg" alt="" />
+	            <img src="_images/tapping950.jpg" alt="" />
+	            <img src="_images/Edmonton.jpg" />
+	       
+		   </div>
+	        <div id="htmlcaption" style="display: none;">
+	            
+	        </div>
+	    </div>
+
+	    <div class="div2">
+	       
+	    </div>
+
 .. _tdwilliamson1:
 .. figure:: tapping950.jpg
    :height: 350px
    :width: 950 px
    :scale: 100 %
    :align: center
+
++-------------------------+-------------------------+-------------------------+-------------------------+
+|.. _figa:                |                         |                         |.. _figb:                |
+|                         |                         |                         |                         |
+|.. figure:: UofAlogo.jpg |.. figure:: spacer.png   |.. figure:: spacer.png   |.. figure:: YPACLogo.JPG |
+|   :width: 55 %          |   :width: 95 %          |   :width: 95 %          |   :width: 55 %          |
+|   :align: center        |   :align: center        |   :align: center        |   :align: center        |
+|                         |                         |                         |                         |
++-------------------------+-------------------------+-------------------------+-------------------------+
 
 Overview
 =============
