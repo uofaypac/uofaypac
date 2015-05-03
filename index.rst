@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. _Quiz41b1:
+.. _Edmonton1:
 .. figure:: Edmonton.jpg
    :height: 885px
    :width: 2169 px
@@ -18,7 +18,7 @@ Contents:
 .. toctree::
    :maxdepth: 15
 
-   Overview.rst
+   Overview2.rst
    Membership.rst
    Events.rst
 
