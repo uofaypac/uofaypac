@@ -39,8 +39,8 @@
 +-------------------------+-------------------------+-------------------------+-------------------------+
 |.. _figa:                |                         |                         |.. _figb:                |
 |                         |                         |                         |                         |
-|.. figure:: UofAlogo.jpg |.. figure:: spacer.png   |.. figure:: spacer.png   |.. figure:: YPACLogo.JPG |
-|   :width: 55 %          |   :width: 95 %          |   :width: 95 %          |   :width: 55 %          |
+|.. figure:: UofAlogo.jpg |.. figure:: YPACLogo.JPG |.. figure:: UofAlogo.jpg |.. figure:: YPACLogo.JPG |
+|   :width: 75 %          |   :width: 75 %          |   :width: 75 %          |   :width: 75 %          |
 |   :align: center        |   :align: center        |   :align: center        |   :align: center        |
 |                         |                         |                         |                         |
 +-------------------------+-------------------------+-------------------------+-------------------------+
