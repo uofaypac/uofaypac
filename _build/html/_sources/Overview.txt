@@ -40,11 +40,11 @@
 	    <div id="sliderFrame">
 	        <div id="slider">
 	            <a href="http://www.tdwilliamson.com/" target="_blank">
-	                <img src="_images/tapping950.jpg" alt="" />
+	                <img src="_images/tapping950.jpg" width="400" height="200" alt="" />
 	            </a>
-	            <img src="_images/Edmonton.jpg" alt="" />
-	            <img src="_images/tapping950.jpg" alt="" />
-	            <img src="_images/Edmonton.jpg" />
+	            <img src="_images/Edmonton.jpg" width="400" height="200" alt="" />
+	            <img src="_images/tapping950.jpg" width="400" height="200" alt="" />
+	            <img src="_images/Edmonton.jpg" width="400" height="200" />
 	       
 		   </div>
 	        <div id="htmlcaption" style="display: none;">
