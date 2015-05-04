@@ -20,11 +20,10 @@
 			  	auto: true
 			});
 		</script>
-	    <ul class="bxslider">
-	      <li><img src="_images/Edmonton.jpg" /></li>
-	      <li><img src="_images/tapping950.jpg" /></li>
-	      <li><img src="_images/Edmonton.jpg" /></li>
-	    </ul>
+	    <div class="bxslider">
+	    	<div class="slide"><img src="_images/Edmonton.jpg"></div>
+	    	<div class="slide"><img src="_images/tapping950.jpg"></div>
+	    </div>
 
 
 
